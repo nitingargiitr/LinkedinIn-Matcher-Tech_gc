@@ -1,0 +1,49 @@
+import json
+
+def extract_best_matches(input_file='enhanced_output.json', output_file='best_matches.json'):
+    """
+    Creates a simplified output with:
+    1. Profile number (starting from 1)
+    2. Persona name
+    3. Best match LinkedIn URL
+    4. Similarity score (real_confidence_score)
+    """
+    # Load the enhanced data
+    with open(input_file, 'r') as f:
+        data = json.load(f)
+    
+    best_matches = []
+    
+    for index, persona in enumerate(data, start=1):
+        persona_name = persona['persona_name']
+        matches = persona['matches']
+        
+        # Get the best match (highest real_confidence_score)
+        best_match = None
+        if matches:
+            # Sort by real_confidence_score descending
+            sorted_matches = sorted(
+                matches, 
+                key=lambda x: x.get('real_confidence_score', 0), 
+                reverse=True
+            )
+            best_match = sorted_matches[0]
+        
+        # Prepare the output entry
+        entry = {
+            "profile_number": index,
+            "name": persona_name,
+            "linkedin_url": best_match['url'] if best_match else "No match found",
+            "similarity_score": best_match.get('real_confidence_score', 0) if best_match else 0
+        }
+        
+        best_matches.append(entry)
+    
+    # Save the simplified output
+    with open(output_file, 'w') as f:
+        json.dump(best_matches, f, indent=2)
+    
+    print(f"Best matches saved to {output_file}")
+
+if __name__ == "__main__":
+    extract_best_matches()
