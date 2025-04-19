@@ -1,0 +1,7 @@
+pandas
+requests
+fuzzywuzzy
+python-Levenshtein
+spacy
+sentence-transformers
+numpy
