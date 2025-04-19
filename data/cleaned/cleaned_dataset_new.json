@@ -1,0 +1,125 @@
+[
+  {
+    "name": "Dhruv",
+    "location": "Kolkata",
+    "company_industry": null,
+    "company_size": null,
+    "roles": [
+      "i am working as ai ml professional in kolkata india"
+    ],
+    "website": null,
+    "job_title": null,
+    "company": null,
+    "social_profile": [],
+    "image_url": "https://avatars.slack-edge.com/2025-01-25/8352197155268_85606151b7cb2127bb82_original.jpg"
+  },
+  {
+    "name": "Anand Kumar",
+    "location": "Asia/Kolkata",
+    "company_industry": "Technology",
+    "company_size": null,
+    "roles": [
+      "Recepto.ai"
+    ],
+    "website": null,
+    "job_title": null,
+    "company": null,
+    "social_profile": [],
+    "image_url": "https://avatars.slack-edge.com/2025-01-01/8230837041654_451e3597d8343a00f759_original.jpg"
+  },
+  {
+    "name": "Vlada Rybak",
+    "location": "Asia/Jerusalem",
+    "company_industry": null,
+    "company_size": null,
+    "roles": [],
+    "website": null,
+    "job_title": null,
+    "company": null,
+    "social_profile": [],
+    "image_url": "https://avatars.slack-edge.com/2023-09-25/5942882652514_4ba06621ab980aa47360_original.jpg"
+  },
+  {
+    "name": "Alora Helix",
+    "location": "Asia/Karachi",
+    "company_industry": null,
+    "company_size": null,
+    "roles": [],
+    "website": null,
+    "job_title": null,
+    "company": null,
+    "social_profile": [],
+    "image_url": "https://avatars.slack-edge.com/2024-06-24/7346196962544_ba320f8d3a4afeaa6f0c_original.jpg"
+  },
+  {
+    "name": "Abdul Wahab Khan",
+    "location": "Asia/Karachi",
+    "company_industry": null,
+    "company_size": null,
+    "roles": [],
+    "website": null,
+    "job_title": null,
+    "company": null,
+    "social_profile": [],
+    "image_url": "https://avatars.slack-edge.com/2024-11-17/8039198376453_cf02220afa563f969f81_original.png"
+  },
+  {
+    "name": "Aleez Xaim",
+    "location": "Asia/Karachi",
+    "company_industry": null,
+    "company_size": null,
+    "roles": [],
+    "website": null,
+    "job_title": null,
+    "company": null,
+    "social_profile": [],
+    "image_url": "https://avatars.slack-edge.com/2024-12-17/8180633367590_0ac703d3badd2aa2522b_original.jpg"
+  },
+  {
+    "name": "Stephen Cook",
+    "location": "America/Los_Angeles",
+    "company_industry": null,
+    "company_size": null,
+    "roles": [
+      "Co-founder / CTO at Tightknit"
+    ],
+    "website": null,
+    "job_title": null,
+    "company": "Tightknit",
+    "social_profile": [
+      "https://community.storychamp.ai"
+    ],
+    "image_url": "https://avatars.slack-edge.com/2025-02-14/8456100145090_3121a036c621dc5209dd_original.png"
+  },
+  {
+    "name": "Zach Hawtof",
+    "location": "America/New_York",
+    "company_industry": null,
+    "company_size": null,
+    "roles": [
+      "Community Leader",
+      "Occasional CEO"
+    ],
+    "website": null,
+    "job_title": null,
+    "company": null,
+    "social_profile": [],
+    "image_url": "https://avatars.slack-edge.com/2025-02-11/8439363057316_f1453243b11c4ca1711e_original.png"
+  },
+  {
+    "name": "Eli W",
+    "location": "America/New_York",
+    "company_industry": "Technology",
+    "company_size": null,
+    "roles": [
+      "Head of Customer Experience @ captions.ai"
+    ],
+    "website": null,
+    "job_title": null,
+    "company": null,
+    "social_profile": [
+      "https://community.tightknit.ai"
+    ],
+    "image_url": "https://avatars.slack-edge.com/2025-01-28/8384132343968_4efddb3362d4a97976e3_original.png"
+  }
+]
