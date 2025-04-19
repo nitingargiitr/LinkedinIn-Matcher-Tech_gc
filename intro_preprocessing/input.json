@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Dhruv",
+        "image": "https://avatars.slack-edge.com/2025-01-25/8352197155268_85606151b7cb2127bb82_original.jpg",
+        "intro": "i am working as ai ml professional in kolkata india",
+        "timezone": null,
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": []
+    },
+    {
+        "name": "Anand kumar",
+        "image": "https://avatars.slack-edge.com/2025-01-01/8230837041654_451e3597d8343a00f759_original.jpg",
+        "intro": "Recepto.ai",
+        "timezone": "Asia/Kolkata",
+        "company_industry": "Technology",
+        "company_size": null,
+        "social_profile": []
+    },
+    {
+        "name": "Vlada Rybak",
+        "image": "https://avatars.slack-edge.com/2023-09-25/5942882652514_4ba06621ab980aa47360_original.jpg",
+        "intro": null,
+        "timezone": "Asia/Jerusalem",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Alora Helix",
+        "image": "https://avatars.slack-edge.com/2024-06-24/7346196962544_ba320f8d3a4afeaa6f0c_original.jpg",
+        "intro": null,
+        "timezone": "Asia/Karachi",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Abdul Wahab Khan",
+        "image": "https://avatars.slack-edge.com/2024-11-17/8039198376453_cf02220afa563f969f81_original.png",
+        "intro": null,
+        "timezone": "Asia/Karachi",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Aleez Xaim",
+        "image": "https://avatars.slack-edge.com/2024-12-17/8180633367590_0ac703d3badd2aa2522b_original.jpg",
+        "intro": "",
+        "timezone": "Asia/Karachi",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Stephen Cook",
+        "image": "https://avatars.slack-edge.com/2025-02-14/8456100145090_3121a036c621dc5209dd_original.png",
+        "intro": "Co-founder / CTO at Tightknit",
+        "timezone": "America/Los_Angeles",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": [
+            "https://community.storychamp.ai/"
+        ]
+    },
+    {
+        "name": "Zach Hawtof",
+        "image": "https://avatars.slack-edge.com/2025-02-11/8439363057316_f1453243b11c4ca1711e_original.png",
+        "intro": "Community Leader. Occasional CEO.",
+        "timezone": "America/New_York",
+        "company_industry": "",
+        "company_size": "",
+        "social_profile": null
+    },
+    {
+        "name": "Eli W.",
+        "image": "https://avatars.slack-edge.com/2025-01-28/8384132343968_4efddb3362d4a97976e3_original.png",
+        "intro": "Head of Customer Experience @ captions.ai",
+        "timezone": "America/New_York",
+        "company_industry": "Technology",
+        "company_size": null,
+        "social_profile": [
+            "https://community.tightknit.ai/"
+        ]
+    }
+]
