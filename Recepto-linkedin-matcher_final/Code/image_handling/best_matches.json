@@ -1,0 +1,56 @@
+[
+  {
+    "profile_number": 1,
+    "name": "Dhruv",
+    "linkedin_url": "https://in.linkedin.com/in/dhruv-bajesaria-43ba662b7",
+    "similarity_score": 0.9
+  },
+  {
+    "profile_number": 2,
+    "name": "Anand Kumar",
+    "linkedin_url": "https://in.linkedin.com/in/anand-kumar-72b272a8",
+    "similarity_score": 0.9
+  },
+  {
+    "profile_number": 3,
+    "name": "Vlada Rybak",
+    "linkedin_url": "https://ua.linkedin.com/in/vlada-rybak-43091b249",
+    "similarity_score": 0.8200000000000001
+  },
+  {
+    "profile_number": 4,
+    "name": "Alora Helix",
+    "linkedin_url": "https://www.linkedin.com/in/alora",
+    "similarity_score": 0.604
+  },
+  {
+    "profile_number": 5,
+    "name": "Abdul Wahab Khan",
+    "linkedin_url": "https://pk.linkedin.com/in/abdul-wahab-khan-1403671b5",
+    "similarity_score": 0.8140000000000001
+  },
+  {
+    "profile_number": 6,
+    "name": "Aleez Xaim",
+    "linkedin_url": "https://my.linkedin.com/in/aleez-razi-76a272ab",
+    "similarity_score": 0.6580000000000001
+  },
+  {
+    "profile_number": 7,
+    "name": "Stephen Cook",
+    "linkedin_url": "https://www.linkedin.com/in/zhawtof",
+    "similarity_score": 0.9
+  },
+  {
+    "profile_number": 8,
+    "name": "Zach Hawtof",
+    "linkedin_url": "https://www.linkedin.com/in/zhawtof",
+    "similarity_score": 0.9
+  },
+  {
+    "profile_number": 9,
+    "name": "Eli W",
+    "linkedin_url": "https://www.linkedin.com/in/eliwood?trk=pub-pbmap",
+    "similarity_score": 0.8200000000000001
+  }
+]

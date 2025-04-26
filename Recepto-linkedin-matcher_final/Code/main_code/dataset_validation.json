@@ -1,0 +1,873 @@
+[
+    {
+        "name": "Prasid Pathak",
+        "image": "https://avatars.slack-edge.com/2023-10-09/6006281231014_945b98eeba8a57455979_original.jpg",
+        "intro": "Fractional CMO",
+        "timezone": "America/New_York",
+        "company_industry": "",
+        "company_size": "",
+        "social_profile": [
+            "https://www.goairframe.com/"
+        ]
+    },
+    {
+        "name": "Max",
+        "image": "https://secure.gravatar.com/avatar/da0bc099669ad27bd319a95632e83b7f.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-24.png",
+        "intro": "Shopify Developer, Custom Themes Development, Agency",
+        "timezone": "Asia/Jerusalem",
+        "company_industry": "Agency",
+        "company_size": null,
+        "social_profile": []
+    },
+    {
+        "name": "Cristian Glodeanu",
+        "image": "https://avatars.slack-edge.com/2024-12-10/8165106434513_34037f93d0ddec91d628_original.jpg",
+        "intro": "Google Cybersecurity Professional Certificate",
+        "timezone": "Europe/Athens",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": [
+            "https://www.credly.com/badges/cfa3b96e-6296-4a0d-8db3-559cd050f30a/public_url"
+        ]
+    },
+    {
+        "name": "Thibaut Nyssens",
+        "image": "https://avatars.slack-edge.com/2021-06-12/2177998075313_f8b5abf17f9fac8d762b_original.jpg",
+        "intro": "Product growth",
+        "timezone": "Europe/Brussels",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": [
+            "https://cycle.app?utm_source=slack&utm_medium=productschool&utm_campaign=profile"
+        ]
+    },
+    {
+        "name": "Sujoy Guha",
+        "image": "https://avatars.slack-edge.com/2024-11-15/8032400300278_00cee76128880e6cf02f_original.jpg",
+        "intro": null,
+        "timezone": "America/Los_Angeles",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": [
+            "https://www.linkedin.com/in/sujguha/"
+        ]
+    },
+    {
+        "name": "Heli Mehta",
+        "image": "https://avatars.slack-edge.com/2024-05-31/7189615433815_01f06687f63c85a7dae8_original.jpg",
+        "intro": "Exploring Growth roles, Ex-Short sprints of Product & Growth roles at early-stage startups, Ex-Category management @UrbanCompany",
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Raghu",
+        "image": "https://avatars.slack-edge.com/2024-08-12/7554697082438_9899b79a67477fec8892_original.png",
+        "intro": "",
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Sahaj Nalgirkar",
+        "image": "https://avatars.slack-edge.com/2024-10-07/7859683726176_15611f68e707587d0d36_original.png",
+        "intro": "Used to be a Founder. Love Solving Problems, Music, Animals and Travel",
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Neel Rajgor",
+        "image": "https://avatars.slack-edge.com/2024-09-13/7717760602598_518ddb83c5ff9f8bf733_original.jpg",
+        "intro": "Human Resource Associate",
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": [
+            "https://neelrajgor.medium.com/"
+        ]
+    },
+    {
+        "name": "Andr\u00e9a Faria",
+        "image": "https://avatars.slack-edge.com/2024-01-15/6473577180146_c50a09e3c3ffbb782433_original.jpg",
+        "intro": null,
+        "timezone": "Europe/London",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Rishabh Mendiratta",
+        "image": "https://avatars.slack-edge.com/2024-10-18/7900790456435_101fcedcdb3428af7d80_original.jpg",
+        "intro": "Software Developer turned Entrepreneur. Worked at D.E.Shaw&Co. for 3.5+yrs, started own venture, recently exited, looking for impactful entrepreneurial roles.",
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": [
+            "https://twitter.com/rishabh9785"
+        ]
+    },
+    {
+        "name": "Gary-Yau Chan",
+        "image": "https://avatars.slack-edge.com/2025-02-05/8393536422551_e45563580aea452a7692_original.jpg",
+        "intro": "",
+        "timezone": "America/Los_Angeles",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": [
+            "https://growthwithgary.com/"
+        ]
+    },
+    {
+        "name": "Wil Christie",
+        "image": "https://avatars.slack-edge.com/2024-09-05/7671694441191_44a72627760eef1ecaf9_original.jpg",
+        "intro": "",
+        "timezone": "America/New_York",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "sami ullah",
+        "image": "https://avatars.slack-edge.com/2025-02-01/8380210531061_8796aae9d135e5ab06a5_original.jpg",
+        "intro": "Business Developer",
+        "timezone": "Asia/Karachi",
+        "company_industry": "",
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Stefano Manzolli",
+        "image": "https://avatars.slack-edge.com/2025-02-10/8439537334689_34ab2f7be2a5e16741b8_original.png",
+        "intro": "",
+        "timezone": "Europe/London",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Pratibha Foujdar",
+        "image": "https://avatars.slack-edge.com/2024-03-20/6842406802001_560427a7c864dee31e11_original.png",
+        "intro": "",
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Richard Mensah",
+        "image": "https://avatars.slack-edge.com/2023-11-27/6249370002870_6807c062206dd58d2507_original.png",
+        "intro": "Founder & CEO at Salley",
+        "timezone": "America/New_York",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Bala Vishal",
+        "image": "https://avatars.slack-edge.com/2024-03-20/6816648100535_2549b9880cffcd9bb6d0_original.png",
+        "intro": "",
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Ravi Patel",
+        "image": "https://avatars.slack-edge.com/2024-12-19/8197004415397_c2bc52e0c3e33f300ab3_original.jpg",
+        "intro": "Sr Manager-TA",
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": [
+            "https://super.page/ravivpatel.14582#this-is-me"
+        ]
+    },
+    {
+        "name": "Akansh Devendra",
+        "image": "https://avatars.slack-edge.com/2024-07-26/7497398781745_c5d71656569fe59fd1e9_original.jpg",
+        "intro": "Bangalore | Data Science + Econ + AI | Building Aarambha Invest",
+        "timezone": "Asia/Kolkata",
+        "company_industry": "Finance",
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Vidya Shankar",
+        "image": "https://avatars.slack-edge.com/2025-01-09/8291803739584_ef64842c556d422ce97b_original.png",
+        "intro": "",
+        "timezone": "Asia/Kolkata",
+        "company_industry": "Technology",
+        "company_size": null,
+        "social_profile": [
+            "https://disamina.ai"
+        ]
+    },
+    {
+        "name": "Bree Sykes",
+        "image": "https://avatars.slack-edge.com/2024-05-07/7082997656372_ca1e912ad24c700372d5_original.png",
+        "intro": "",
+        "timezone": "America/New_York",
+        "company_industry": "Travel and Hospitality",
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Girish Gilda",
+        "image": "https://avatars.slack-edge.com/2024-05-07/7100207322304_f75d146ffad5c7a38077_original.jpg",
+        "intro": null,
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Rishika Sharma",
+        "image": "https://avatars.slack-edge.com/2024-12-23/8225799420721_b67cc16309d31aa8877b_original.jpg",
+        "intro": "Figr",
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Francesco Cognolato",
+        "image": "https://avatars.slack-edge.com/2022-01-17/2976093560961_a0f8a1dc461d365599f6_original.jpg",
+        "intro": "Deep Learning, Full Stack Developer, Computer Vision, NLP, RL",
+        "timezone": "Asia/Kuala_Lumpur",
+        "company_industry": "",
+        "company_size": null,
+        "social_profile": []
+    },
+    {
+        "name": "Andrii Zatserklianyi",
+        "image": "https://avatars.slack-edge.com/2024-02-22/6706325243232_b242e273f434610c69b5_original.jpg",
+        "intro": "",
+        "timezone": "Asia/Jerusalem",
+        "company_industry": "",
+        "company_size": "",
+        "social_profile": ""
+    },
+    {
+        "name": "Jack Oliphant",
+        "image": "https://avatars.slack-edge.com/2025-01-06/8248321078902_70c7837897316ae63b76_original.png",
+        "intro": "",
+        "timezone": "America/Los_Angeles",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": []
+    },
+    {
+        "name": "Rishabh Bhargava",
+        "image": "https://avatars.slack-edge.com/2024-01-12/6449210156087_6c04bebfa624d161d782_original.png",
+        "intro": "",
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Reuben Ramirez",
+        "image": "https://avatars.slack-edge.com/2025-02-04/8391938139478_42052e1b12e49f903a12_original.jpg",
+        "intro": "",
+        "timezone": "America/Chicago",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Nikhat Shaik",
+        "image": "https://avatars.slack-edge.com/2025-02-06/8403526443814_b23eb217c1dc51dbb707_original.png",
+        "intro": "",
+        "timezone": "Asia/Kolkata",
+        "company_industry": "",
+        "company_size": "Early stage",
+        "social_profile": [
+            "https://x.com/ShaikNikhat1"
+        ]
+    },
+    {
+        "name": "Varun Kapadia",
+        "image": "https://secure.gravatar.com/avatar/0721447299194a0ab915857acb7d7022.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png",
+        "intro": null,
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Festus Ihensekhien",
+        "image": "https://avatars.slack-edge.com/2024-09-24/7768641267782_b527b8682f9a1c926931_original.jpg",
+        "intro": "",
+        "timezone": "Africa/Algiers",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": []
+    },
+    {
+        "name": "Paul Warren",
+        "image": "https://avatars.slack-edge.com/2025-02-28/8525836239474_15fc0ec91b6e51a5e558_original.jpg",
+        "intro": "",
+        "timezone": "Australia/Canberra",
+        "company_industry": "",
+        "company_size": null,
+        "social_profile": [
+            "https://www.ecommercecircle.com.au"
+        ]
+    },
+    {
+        "name": "Gary-Yau Chan",
+        "image": "https://avatars.slack-edge.com/2025-02-11/8459322060144_4c9e60d2abf6dc01e777_original.jpg",
+        "intro": null,
+        "timezone": "America/Los_Angeles",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Dilara Cossette",
+        "image": "https://avatars.slack-edge.com/2024-03-04/6745110803588_8f22ccfeb28276740b82_original.jpg",
+        "intro": "demand generation",
+        "timezone": "America/New_York",
+        "company_industry": "",
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Alexandre Contador",
+        "image": "https://avatars.slack-edge.com/2021-08-11/2369543434931_98ba282308368b3adb76_original.png",
+        "intro": "Videco",
+        "timezone": "Europe/Amsterdam",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Ehsaas Gakhar",
+        "image": "https://avatars.slack-edge.com/2023-11-08/6164949821298_467cb1d228f8de995cd6_original.png",
+        "intro": null,
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Donald Nosek",
+        "image": "https://avatars.slack-edge.com/2025-01-07/8284907569248_26d2a1ea988851cea9ac_original.png",
+        "intro": "Chief Growth, RevOps & Marketing Officer",
+        "timezone": "America/Los_Angeles",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Sean Nihill",
+        "image": "https://avatars.slack-edge.com/2025-02-12/8443817239827_ec8d5f5a2e7d533972e3_original.jpg",
+        "intro": "Director, Strategic Partnerships",
+        "timezone": "America/Chicago",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Andy Mowat",
+        "image": "https://avatars.slack-edge.com/2022-02-09/3081662291299_125801a92732a21d2e3f_original.jpg",
+        "intro": "",
+        "timezone": "America/Los_Angeles",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Jo\u00e3o Dobbin",
+        "image": "https://avatars.slack-edge.com/2024-02-26/6723418674672_5009f8c6b3f30cbb472e_original.jpg",
+        "intro": null,
+        "timezone": "America/Sao_Paulo",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Bex Kilkelly",
+        "image": "https://avatars.slack-edge.com/2025-02-14/8453342412930_be1e83e631c0991318fd_original.jpg",
+        "intro": "Head of Business Development & Partnerships at Protex AI",
+        "timezone": "Europe/London",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Rahul Khatri",
+        "image": "https://avatars.slack-edge.com/2025-02-15/8458764048146_288f1b36eb9f3866f0e7_original.png",
+        "intro": "Founder & CEO at AuraX | IIM Bangalore & T-Hub | ex- Research at IIT Jodhpur | Top 3% WTFund | Winner - GSEA (x2) & Hack for India'23",
+        "timezone": "Asia/Kolkata",
+        "company_industry": "Fashion",
+        "company_size": "Startup",
+        "social_profile": [
+            "https://x.com/Rahulk644"
+        ]
+    },
+    {
+        "name": "Amanda Barber",
+        "image": "https://avatars.slack-edge.com/2023-09-26/5953177720739_86334a8653a3ed2c1899_original.jpg",
+        "intro": "Wearer of all the hats \ud83e\udde2 at a small ed tech company who provides project management services, tier 2 support, and so. much. more. \ud83d\ude05",
+        "timezone": "America/Los_Angeles",
+        "company_industry": "Ed Tech",
+        "company_size": "Small",
+        "social_profile": [
+            "https://commongoodlt.com/",
+            "https://bsky.app/profile/books-and-barbells.bsky.social"
+        ]
+    },
+    {
+        "name": "David Vogel",
+        "image": "https://avatars.slack-edge.com/2025-02-13/8474108749424_8180f736230506d7ae61_original.jpg",
+        "intro": "CEO at Remote Video Testimonials",
+        "timezone": "America/New_York",
+        "company_industry": "",
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Raj Patel",
+        "image": "https://avatars.slack-edge.com/2023-07-15/5570527683799_2a63d908117fa06a79c9_original.jpg",
+        "intro": "Building @Reczee",
+        "timezone": "Asia/Kolkata",
+        "company_industry": "",
+        "company_size": null,
+        "social_profile": ""
+    },
+    {
+        "name": "Rod A",
+        "image": "https://avatars.slack-edge.com/2025-03-10/8566684583943_7497ef02982d8cc47f5f_original.png",
+        "intro": null,
+        "timezone": "America/Los_Angeles",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Gary Chan",
+        "image": "https://avatars.slack-edge.com/2020-01-02/893972535495_5104104852b5f3a7c9e4_original.png",
+        "intro": "PLG Leader",
+        "timezone": "America/Los_Angeles",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Phil Sergenti",
+        "image": "https://avatars.slack-edge.com/2024-06-26/7330924682950_47d3c5396e3a7e7a8141_original.jpg",
+        "intro": null,
+        "timezone": "Europe/Athens",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Dilara Cossette",
+        "image": "https://avatars.slack-edge.com/2025-02-17/8464696251586_1c3ef7359b47e20f985d_original.jpg",
+        "intro": "Founder / FIP",
+        "timezone": "America/New_York",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Nidhi Asthana",
+        "image": "https://avatars.slack-edge.com/2023-06-05/5375908357044_17c40a2e167a71e22c0e_original.png",
+        "intro": null,
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "John Turner",
+        "image": "https://avatars.slack-edge.com/2025-02-17/8459669073510_1ad43a719712f2ed7178_original.jpg",
+        "intro": "Head of Product at Truce",
+        "timezone": "America/Chicago",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Jonathan Brassington",
+        "image": "https://avatars.slack-edge.com/2025-02-17/8478880448449_e619613c70386cf33364_original.jpg",
+        "intro": null,
+        "timezone": "America/Chicago",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Hassan Irshad",
+        "image": "https://avatars.slack-edge.com/2024-02-29/6721354887126_e593759f9a80043bb260_original.jpg",
+        "intro": "Director of RevOps - FEV Tutor & Founder at RevInfinity",
+        "timezone": "America/New_York",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Vasu Narayan",
+        "image": "https://avatars.slack-edge.com/2025-02-22/8488280132134_aabb21c1426cca11dbc1_original.png",
+        "intro": "Self Employed, Marketing Consultant, Helping Brands Grow 10X",
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Aachman Maheshwari",
+        "image": "https://avatars.slack-edge.com/2024-12-16/8194004679841_fa76bb00bfac5bf9b20b_original.jpg",
+        "intro": "Community & Events @ GrowthX",
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Kushagra Agarwal",
+        "image": "https://avatars.slack-edge.com/2024-08-03/7536032079009_2e0c8f80f1b436435b11_original.jpg",
+        "intro": "",
+        "timezone": "Asia/Kolkata",
+        "company_industry": "Jewellery Retail",
+        "company_size": null,
+        "social_profile": []
+    },
+    {
+        "name": "Vaibhav Pareek",
+        "image": "https://avatars.slack-edge.com/2024-04-22/6992722712150_683b607bc7f2bbd64d69_original.jpg",
+        "intro": "",
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": []
+    },
+    {
+        "name": "Rijk de Visser",
+        "image": "https://avatars.slack-edge.com/2025-02-17/8465038447714_d7722fbf7e624037b189_original.png",
+        "intro": "Founder Mode",
+        "timezone": "Europe/Amsterdam",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Shiva Kumar",
+        "image": "https://avatars.slack-edge.com/2023-12-07/6307641721141_360b3743ab142ada8025_original.png",
+        "intro": null,
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Kaiden",
+        "image": "https://avatars.slack-edge.com/2025-02-17/8464032992997_c237be746abf50fb0d5e_original.jpg",
+        "intro": "Company: Trestle, Title: Data Consultant",
+        "timezone": "America/Anchorage",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Jeremy Steinbring",
+        "image": "https://avatars.slack-edge.com/2023-09-11/5872980342742_c0db94f75d76e1c8ce31_original.jpg",
+        "intro": "Founder @ RevOnyx",
+        "timezone": "America/Los_Angeles",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Riddhi Bajaj",
+        "image": "https://avatars.slack-edge.com/2025-01-03/8258202668273_1514fb1c94c176477a3f_original.jpg",
+        "intro": "Struggling to land more clients? Let\u2019s fix that.",
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Lachlan Trinh",
+        "image": "https://avatars.slack-edge.com/2025-02-17/8464541705828_f7262fc3e5e54dca2c8c_original.jpg",
+        "intro": null,
+        "timezone": "Australia/Canberra",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Luke",
+        "image": "https://avatars.slack-edge.com/2023-02-20/4827209614149_f7efbdbec96b18ce0911_original.jpg",
+        "intro": "Agency",
+        "timezone": "Europe/London",
+        "company_industry": "Agency",
+        "company_size": null,
+        "social_profile": [
+            "https://www.charle.co.uk/"
+        ]
+    },
+    {
+        "name": "Rafe Tariq, LD20",
+        "image": "https://avatars.slack-edge.com/2025-03-09/8575093881171_e695d7a77d002dd58c49_original.jpg",
+        "intro": null,
+        "timezone": "Europe/London",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Bindiya C Mastikatte",
+        "image": "https://avatars.slack-edge.com/2023-06-04/5355218778439_8e5a912c61c6dc8d24da_original.jpg",
+        "intro": "Talent Management Associate at Almabase",
+        "timezone": "Asia/Kolkata",
+        "company_industry": "Education Technology",
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Misty Kennedy",
+        "image": "https://avatars.slack-edge.com/2025-02-19/8479813506018_692eae951650631c4b5e_original.jpg",
+        "intro": "Mistress of Donuts/OFW",
+        "timezone": "Europe/Amsterdam",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Anjali singh",
+        "image": "https://avatars.slack-edge.com/2024-07-05/7379430635781_817985d3640bac2424a0_original.jpg",
+        "intro": "",
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": []
+    },
+    {
+        "name": "Mike Parkin",
+        "image": "https://avatars.slack-edge.com/2023-04-26/5194913734624_9bbeef6c3a5fa40e4667_original.jpg",
+        "intro": "Founder at Function",
+        "timezone": "Europe/London",
+        "company_industry": "",
+        "company_size": null,
+        "social_profile": []
+    },
+    {
+        "name": "Anna Miller",
+        "image": "https://avatars.slack-edge.com/2025-02-16/8447491742887_842c228f377e518b3fe9_original.jpg",
+        "intro": "Video Professional, Video Producer, Editor and Creative Project Lead",
+        "timezone": "America/Phoenix",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": [
+            "annafmiller.com"
+        ]
+    },
+    {
+        "name": "Felix Bissong",
+        "image": "https://avatars.slack-edge.com/2023-05-09/5233823090739_32ecc1c0a55d6ac07267_original.jpg",
+        "intro": null,
+        "timezone": "Africa/Algiers",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Rasmus Stjernstr\u00f6m",
+        "image": "https://avatars.slack-edge.com/2022-02-22/3141054174307_41c429f7cf78a9784bb9_original.jpg",
+        "intro": "",
+        "timezone": "Australia/Canberra",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Hasan Baki Kucukcakiroglu",
+        "image": "",
+        "intro": "",
+        "timezone": "Europe/Amsterdam",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": [
+            "https://github.com/bakikucukcakiroglu"
+        ]
+    },
+    {
+        "name": "Eryk Lewandowski",
+        "image": "",
+        "intro": "Cold Email Expert @ FlowBound Agency",
+        "timezone": "Europe/Warsaw",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Chelsea Slocum",
+        "image": "",
+        "intro": "",
+        "timezone": "America/Los_Angeles",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": [
+            "https://www.aha.io/"
+        ]
+    },
+    {
+        "name": "Jorge Macias",
+        "image": "",
+        "intro": null,
+        "timezone": "America/Manaus",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Deblina Chakraborty",
+        "image": "",
+        "intro": "",
+        "timezone": "Asia/Kolkata",
+        "company_industry": "Fintech",
+        "company_size": null,
+        "social_profile": [
+            "https://twitter.com/_deblina_"
+        ]
+    },
+    {
+        "name": "Abhishek Bhalla",
+        "image": "https://avatars.slack-edge.com/2025-01-07/8259230256324_430111449f80a1aa0d36_original.png",
+        "intro": "",
+        "timezone": "Asia/Kolkata",
+        "company_industry": "B2B SaaS",
+        "company_size": "",
+        "social_profile": []
+    },
+    {
+        "name": "Akhil Almeida",
+        "image": "",
+        "intro": "",
+        "timezone": "Asia/Kolkata",
+        "company_industry": "Insurance",
+        "company_size": null,
+        "social_profile": [
+            "https://x.com/akhilalmeida"
+        ]
+    },
+    {
+        "name": "Anupam Sarda",
+        "image": "",
+        "intro": "",
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": []
+    },
+    {
+        "name": "Amarjeet",
+        "image": "https://avatars.slack-edge.com/2024-07-08/7371604031655_123cb1c11da57e2fad41_original.jpg",
+        "intro": "Lead Product Manager @Sequoia Consulting, Built B2B SaaS products for Retail and HR Tech",
+        "timezone": "Asia/Kolkata",
+        "company_industry": "",
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Nishant pandita",
+        "image": "https://avatars.slack-edge.com/2024-10-16/7912627317664_da544a8ee959d65039b5_original.png",
+        "intro": "Prev: Freecharge | Indifi| Axis",
+        "timezone": "Asia/Kolkata",
+        "company_industry": "",
+        "company_size": null,
+        "social_profile": []
+    },
+    {
+        "name": "Kush Mishra",
+        "image": "https://avatars.slack-edge.com/2024-10-19/7897678966070_9577acedbedea22117ce_original.png",
+        "intro": "",
+        "timezone": "Asia/Kolkata",
+        "company_industry": "Technology",
+        "company_size": null,
+        "social_profile": [
+            "https://x.com/kushmishra"
+        ]
+    },
+    {
+        "name": "Ramakant DS",
+        "image": "https://avatars.slack-edge.com/2024-08-21/7609172903876_d19c187ca7b3312ce558_original.jpg",
+        "intro": "",
+        "timezone": "Asia/Kolkata",
+        "company_industry": "",
+        "company_size": null,
+        "social_profile": []
+    },
+    {
+        "name": "Michael Aylward",
+        "image": "",
+        "intro": null,
+        "timezone": "Africa/Harare",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Bhavya Singh Bishnoi",
+        "image": "https://avatars.slack-edge.com/2024-08-07/7539765363749_81e8aa22076b9f8f3b43_original.png",
+        "intro": "",
+        "timezone": "Asia/Kolkata",
+        "company_industry": "",
+        "company_size": null,
+        "social_profile": []
+    },
+    {
+        "name": "Arti Iyer",
+        "image": "https://avatars.slack-edge.com/2025-01-25/8342336788006_50b3363e28115c3135cc_original.png",
+        "intro": "Sr Manager - Ecommerce | Beiersdorf",
+        "timezone": "Asia/Kolkata",
+        "company_industry": "",
+        "company_size": "",
+        "social_profile": []
+    },
+    {
+        "name": "Dheeraj Girase",
+        "image": "",
+        "intro": "",
+        "timezone": "Asia/Kolkata",
+        "company_industry": "AI/ML",
+        "company_size": null,
+        "social_profile": [
+            "https://x.com/GiraseDheeraj"
+        ]
+    },
+    {
+        "name": "Keshav Trehan",
+        "image": "",
+        "intro": "Product Marketing and Growth for SaaS",
+        "timezone": "Asia/Kolkata",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Venkateshwer Acharya",
+        "image": "https://avatars.slack-edge.com/2025-03-06/8572414119713_45d07e49902a8b639e29_original.jpg",
+        "intro": null,
+        "timezone": "Europe/Amsterdam",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    },
+    {
+        "name": "Rupesh Agarwal",
+        "image": "https://avatars.slack-edge.com/2025-02-19/8477329156515_cec43d38651f3da1dcfe_original.jpg",
+        "intro": "",
+        "timezone": "Europe/Amsterdam",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": null
+    }
+]

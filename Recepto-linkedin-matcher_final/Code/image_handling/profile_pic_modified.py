@@ -85,7 +85,7 @@ def scrape_and_rank(driver, match_file):
         for match in matches:
             profile_url = match["url"]
             driver.get(profile_url.split("?")[0])
-            time.sleep(2)
+            time.sleep(5)
 
             try:
                 name_element = WebDriverWait(driver, 10).until(

@@ -1,6 +1,6 @@
 import json
 
-def extract_best_matches(input_file='enhanced_output.json', output_file='best_matches.json'):
+def extract_best_matches(input_file='matches_type_new.json', output_file='best_matches.json'):
     """
     Creates a simplified output with:
     1. Profile number (starting from 1)
@@ -24,7 +24,7 @@ def extract_best_matches(input_file='enhanced_output.json', output_file='best_ma
             # Sort by real_confidence_score descending
             sorted_matches = sorted(
                 matches, 
-                key=lambda x: x.get('real_confidence_score', 0), 
+                key=lambda x: x.get('match_score', 0), 
                 reverse=True
             )
             best_match = sorted_matches[0]
@@ -34,7 +34,7 @@ def extract_best_matches(input_file='enhanced_output.json', output_file='best_ma
             "profile_number": index,
             "name": persona_name,
             "linkedin_url": best_match['url'] if best_match else "No match found",
-            "similarity_score": best_match.get('real_confidence_score', 0) if best_match else 0
+            "similarity_score": best_match.get('match_score', 0) if best_match else 0
         }
         
         best_matches.append(entry)

@@ -87,10 +87,10 @@ def run_linkedin_search(personas, output_file, num_results=5):
 
 
 if __name__ == "__main__":
-    input_path = "D:\Fortran_Recepto_Linkedin_matcher\RECEPTO-FINALLLL\Recepto-linkedin-matcher_final\enriched_output.json"
+    input_path = "D:\LinkedinIn-Matcher-Tech_gc\intro_preprocessing\enriched_output.json"
     cleaned_output_path = "data/cleaned/cleaned_dataset_new.json"
     image_folder = "data/persona_images"
-    matches_output_path = "output/matches_type_new.json"
+    matches_output_path = "D:\LinkedinIn-Matcher-Tech_gc\Recepto-linkedin-matcher_final\Code\image handling\matches_type_new.json"
 
     # Step 1: Preprocess all personas
     cleaned_personas = run_type1_preprocessing(input_path, cleaned_output_path, image_folder)
