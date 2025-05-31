@@ -1,97 +1,103 @@
-## 🚀 Project Summary: Persona to LinkedIn Profile Matcher
+## Project Summary: Persona to LinkedIn Profile Matcher
 
-[![Built with Python](https://img.shields.io/badge/Built%20with-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)  
-[![NLP: spaCy](https://img.shields.io/badge/NLP-spaCy-09A3D5?logo=spacy&logoColor=white)](https://spacy.io)  
-[![Face Recognition: DeepFace](https://img.shields.io/badge/Face%20Recognition-DeepFace-blue)](https://github.com/serengil/deepface)  
-[![Search: Google API](https://img.shields.io/badge/Search-Google%20Custom%20Search-red)](https://developers.google.com/custom-search)
+### Problem Scope
 
----
+The task of persona-to-LinkedIn profile matching involves several core technical challenges:
 
-### 🧠 Problem Scope
-
-Persona-to-LinkedIn profile matching involves **deep technical challenges**:
-
-- 🔄 **Unstructured Input**: Freeform text with missing fields, no clear formatting.
-- 🧩 **Sparse Data**: Many essential fields (company, title, etc.) are implied, not explicitly written.
-- 🧬 **Multi-Modal Verification**: Need to match not just text but also **face images** to confirm identity.
+- **Unstructured Input**: Persona data is often freeform and inconsistently formatted, requiring parsing to extract structured fields.
+- **Sparse Data**: Critical information like job title, company name, or location may be implied or missing entirely.
+- **Multi-Modal Verification**: Reliable identity verification requires both textual and visual (face image) matching.
 
 ---
 
-### 🛠️ End-to-End Solution Pipeline
+### Solution Pipeline
 
-#### 📥 1. Input Preprocessing
-- Accepts messy JSON data with missing or irregular structure.
-- Standardizes all fields with formatting cleanup and default fallbacks.
-- Converts input into a uniform structure for downstream modules.
+#### 1. Input Preprocessing
 
-#### ✨ 2. Data Enrichment (NLP-based)
-- 🔍 **Role & Title**: Extracted via POS tagging and pattern matching from introductions.
-- 🏢 **Company Name**: Identified using rules like “founder of” or “working at”.
-- 🛠️ **Skills**: Noun/adjective phrases filtered through POS tagging.
-- 🌍 **Location**: Inferred from timezone, city mentions, or known region patterns.
-- 🔗 **Links**: Detects Twitter, GitHub, or personal websites from text.
+- Parses varied JSON input formats into a standardized schema.
+- Handles missing or optional fields like timezone or profile image using default fallbacks.
+- Normalizes and cleans input (e.g., lowercasing, whitespace removal) for consistent downstream processing.
 
-#### 🧬 3. NLP Pipeline
-- 🔹 Uses **spaCy** for:
-  - Named Entity Recognition (NER)
-  - POS tagging
-- 🔸 Regex rules are added for custom patterns like emails, links, and structured tags.
+#### 2. Data Enrichment
 
-#### 🧑‍💼 4. Face Matching (Visual Verification)
-- Uses **DeepFace** to convert persona and profile images into embeddings.
-- Computes **cosine similarity** to validate image identity:
-  - ≥ 0.8: ✅ High match
-  - 0.6–0.8: ⚠️ Medium
-  - < 0.6: ❌ Low
+- **Title Extraction**: Extracts professional roles (e.g., CEO, Engineer) from introductions using POS tagging and rule-based patterns.
+- **Company Name Detection**: Identifies company names using contextual patterns like “founder of” or “working at”.
+- **Skill Extraction**: Derives key technical and soft skills from descriptive text.
+- **Location Detection**: Infers location from timezone, intro text, or known place references.
+- **Link Parsing**: Detects and stores relevant URLs (GitHub, Twitter, personal websites).
 
-#### 📊 5. Verification & Ranking
-- Scores each match using **weighted attributes**:
-  - Name: 50%
-  - Company/Role: 20%
-  - Industry/Size: 15%
-  - Location: 10%
-  - Social: 5%
-- Adjusts score using **penalties** for missing persona fields.
-- Final result is an explainable, auditable list of best matches.
+#### 3. NLP Pipeline
 
----
+- Utilizes **spaCy** for:
+  - Named Entity Recognition (NER) to extract names, organizations, locations.
+  - POS tagging to assist in role and skill extraction.
+- Regular expressions are used for structured pattern extraction (URLs, emails, titles).
 
-### 🔐 Unique Features & USPs
+#### 4. Face Matching
 
-✅ **Zero LLM Dependency**  
-No black-box models. Entirely based on transparent, rule-based, and deterministic logic.
+- Leverages **DeepFace** for image embedding generation and cosine similarity scoring.
+- Match strength is categorized as:
+  - High confidence: score ≥ 0.8
+  - Moderate confidence: score between 0.6 and 0.8
+  - Low confidence: score < 0.6
+- This layer adds visual verification to distinguish profiles with similar textual content.
 
-🔁 **Modular Architecture**  
-Each component (search, match, image, enrich) is pluggable and independently testable.
+#### 5. Verification and Ranking
 
-🛡️ **Fallback Resilience**  
-Works even if image, company, or intro is missing. Matches are made on available data.
-
-🧠 **Explainable Outputs**  
-Every match shows:
-- Original & enriched fields
-- Confidence scores
-- Match breakdown by component
-
-🧍‍♂️ **Visual Identity Support**  
-Face verification helps eliminate mismatches when names are common or ambiguous.
+- A weighted scoring system is applied:
+  - Name similarity (50%)
+  - Company and role (20%)
+  - Industry and company size (15%)
+  - Location (10%)
+  - Social media presence (5%)
+- Confidence penalties are applied for missing fields to avoid overconfident matches.
+- Matches are ranked by total confidence score, optionally adjusted using face similarity.
 
 ---
 
-### 📦 Tech Stack
+### Unique Features and Design Highlights
 
-| Purpose             | Tools / Libraries                              |
-|---------------------|------------------------------------------------|
-| Data Handling        | `pandas`, `numpy`                              |
-| NLP / Text Parsing   | `spaCy`, `regex`                               |
-| Image Matching       | `DeepFace`                                     |
-| Web Search API       | `Google Custom Search`                         |
-| Script Language      | `Python` (modular CLI-driven pipeline)         |
+#### Rule-Based and Transparent
+
+- No dependency on large language models (LLMs).
+- Rule engine is modular, interpretable, and easily extensible.
+
+#### Multi-Source Compatibility
+
+- Works with both rich and minimal persona entries.
+- Handles missing fields without halting execution.
+
+#### Explainable Matching
+
+- Outputs include original persona and enriched fields side-by-side.
+- Each match includes a breakdown of component scores and decision traceability.
+
+#### Visual Identity Support
+
+- Face image matching helps resolve ambiguity in names or sparse profiles.
+- Strengthens confidence in high-stakes matches.
+
+#### Modular and Maintainable
+
+- Independent modules for search, NLP, scoring, and image matching.
+- Easily testable and upgradeable architecture.
 
 ---
 
-### 📈 Performance Highlights
+### Technical Stack
 
-✅ **82% precision** in structured field extraction  
-🏢 **88% accuracy** in detecting company names  
-🧬 **23% boost** in accuracy from integrated face matching  
+| Component          | Technologies Used                                |
+|-------------------|--------------------------------------------------|
+| Data Handling      | Python, pandas, numpy                            |
+| NLP Processing     | spaCy, custom regex patterns                     |
+| Face Matching      | DeepFace (embedding + cosine similarity)         |
+| Search Integration | Google Custom Search API                         |
+| Design Pattern     | Modular, CLI-driven architecture                 |
+
+---
+
+### Results and Evaluation
+
+- **82% precision** in structured field extraction.
+- **88% accuracy** in detecting company affiliations.
+- **23% accuracy improvement** from integrating face matching into the pipeline.
